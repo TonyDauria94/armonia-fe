@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="360" height="360" viewBox="0 0 360 360" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <title>Armonia - Marchio minimale</title>
+  <desc>Marchio vettoriale minimale monocromatico con nota musicale e pagina.</desc>
+
+  <style>
+    .logo-stroke {
+      stroke-width: 16;
+      stroke-linecap: round;
+      stroke-linejoin: round;
+    }
+  </style>
+
+  <g color="#050505">
+    <ellipse cx="107" cy="252" rx="45" ry="37" transform="rotate(-14 107 252)" fill="currentColor"/>
+    <rect x="135" y="76" width="16" height="172" rx="8" fill="currentColor"/>
+    <path d="M143 70 C177 93 207 102 220 141 C191 118 166 112 143 97 C140 95 138 93 135 91 V72 C137 71 140 70 143 70 Z" fill="currentColor"/>
+    <path d="M212 88 H282 C307 88 324 106 324 131 V244 C324 279 302 300 268 300 H232"
+          class="logo-stroke" stroke="currentColor"/>
+    <path d="M232 158 H292 M232 194 H292 M232 230 H276" class="logo-stroke" stroke="currentColor"/>
+  </g>
+</svg>
