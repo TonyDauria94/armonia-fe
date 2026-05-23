@@ -18,9 +18,9 @@
     "storageTitle": "Preferenze salvate",
     "storageBody": "L'app può usare localStorage per ricordare preferenze tecniche come lingua e tema. Queste informazioni restano nel tuo browser.",
     "exportTitle": "Esportazione e stampa",
-    "exportBody": "Quando salvi un .md o generi un PDF, il contenuto viene prodotto localmente dal browser. Sei tu a decidere dove conservarlo o condividerlo.",
+    "exportBody": "Quando salvi un .md o generi un PDF, il contenuto viene prodotto localmente sul dispositivo. Sei tu a decidere dove conservarlo o condividerlo.",
     "thirdPartyTitle": "Risorse esterne",
-    "thirdPartyBody": "Bootstrap e le icone possono essere caricati come asset dell'app o da CDN configurati nel progetto. Eventuali link musicali presenti nei metadati si aprono solo quando li selezioni."
+    "thirdPartyBody": "Bootstrap e le icone sono inclusi negli asset dell'app. Eventuali link musicali presenti nei metadati si aprono solo quando li selezioni."
   },
   "preferences": {
     "title": "Preferenze",
@@ -120,9 +120,11 @@
     "linkSpotify": "Spotify",
     "linkWebsite": "Sito web",
     "linkYoutube": "YouTube",
+    "shareFile": "Condividi o salva file",
     "savedAlert": "Testo salvato (vedi console)",
     "readError": "Impossibile leggere il file",
-    "saveInvalid": "Impossibile esportare il brano: correggi il testo prima di salvare."
+    "saveInvalid": "Impossibile esportare il brano: correggi il testo prima di salvare.",
+    "exportError": "Impossibile salvare o condividere il file."
   },
   "trackPlay": {
     "openPlayer": "Player",

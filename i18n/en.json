@@ -18,9 +18,9 @@
     "storageTitle": "Saved preferences",
     "storageBody": "The app may use localStorage to remember technical preferences such as language and theme. These values stay in your browser.",
     "exportTitle": "Export and print",
-    "exportBody": "When you save a .md file or generate a PDF, the content is produced locally by the browser. You decide where to store or share it.",
+    "exportBody": "When you save a .md file or generate a PDF, the content is produced locally on the device. You decide where to store or share it.",
     "thirdPartyTitle": "External resources",
-    "thirdPartyBody": "Bootstrap and icons may be loaded as app assets or from CDNs configured in the project. Music links in song metadata are opened only when you select them."
+    "thirdPartyBody": "Bootstrap and icons are included in the app assets. Music links in song metadata are opened only when you select them."
   },
   "preferences": {
     "title": "Preferences",
@@ -120,9 +120,11 @@
     "linkSpotify": "Spotify",
     "linkWebsite": "Website",
     "linkYoutube": "YouTube",
+    "shareFile": "Share or save file",
     "savedAlert": "Text saved (see console)",
     "readError": "Unable to read file",
-    "saveInvalid": "Unable to export the song: fix the text before saving."
+    "saveInvalid": "Unable to export the song: fix the text before saving.",
+    "exportError": "Unable to save or share the file."
   },
   "trackPlay": {
     "openPlayer": "Player",
