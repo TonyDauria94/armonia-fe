@@ -112,7 +112,7 @@
     "textSizeTitle": "Text size",
     "textSizeDescription": "Choose the default text size adjustment in the player.",
     "metadataTitle": "Song metadata",
-    "metadataDescription": "Show the song key and links in the player.",
+    "metadataDescription": "Show the song key, draft status, and tags in the player.",
     "secondsSuffix": "seconds",
     "enabled": "Enabled",
     "disabled": "Disabled"

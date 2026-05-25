@@ -112,7 +112,7 @@
     "textSizeTitle": "Dimensione testo",
     "textSizeDescription": "Scegli la regolazione predefinita del testo nel player.",
     "metadataTitle": "Metadati canzone",
-    "metadataDescription": "Mostra nel player la tonalità e i link del brano.",
+    "metadataDescription": "Mostra nel player la tonalità, lo stato bozza e i tag del brano.",
     "secondsSuffix": "secondi",
     "enabled": "Attivo",
     "disabled": "Disattivo"
