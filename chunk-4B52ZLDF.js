@@ -4,17 +4,17 @@ author: Malika Ayane
 slug: malika-ayane-la-prima-cosa-bella
 key: LAb
 draft: false
+tags: pop, cover
 links:
   youtube: https://www.youtube.com/watch?v=cnrOQGwKxzw
   spotify: https://open.spotify.com/track/3ipq9M33p5OpFkQ3VVPPf0
+  website: https://malikaayane.com/
 ---
 
 ## Intro
-
 [LAb] [REb7+] [MIb6]
 
 ## Verse
-
 Ho preso la chi[LAb]tarra [REb7+]
 E [MIb]suono pe[LAb]r te [REb6] [MIb6] [DOm]
 Il tempo di impa[REb]rare
@@ -34,18 +34,16 @@ Non posso pi\xF9 can[LAb7+]tare
 Non chiedo di[MIb6] pi\xF9 [MIb7]
 
 ## Chorus
-
 La [REb]prima cosa bella
 Che ho avuto dalla vita
 \xC8 il [MIb]tuo sorriso giovane, s[LAb]ei tu
 Tra gli [REb]alberi una stella
 La notte si \xE8 schiarita
-Il [MIb]cuore innamorato sempr[LAb]e pi\xF9 [MIb6] [MIb7]
+Il [Mib]cuore innamorato sempr[LAb]e pi\xF9 [Mib6] [MIb7]
 
 [LAb] [REb7+] [MIb6]
 
 ## Verse
-
 La senti questa [LAb]voce [REb6]
 Chi [MIb6]canta \xE8 il [LAb]mio cuore [REb6] [MIb6] [DOm]
 Amore, amore, a[REb]more
@@ -53,24 +51,23 @@ Amore, amore, a[REb]more
 Ma tu mi capi[MIb6]rai [MIb9]
 
 ## Chorus
-
 La [REb]prima cosa bella
 Che ho avuto dalla vita
 \xC8 il [MIb]tuo sorriso giovane, s[LAb]ei tu
 Tra gli [REb]alberi una stella
 La notte si \xE8 schiarita
-Il [MIb]cuore innamorato sempr[LAb]e pi\xF9 [MIb6] [MIb7]
+Il [Mib]cuore innamorato sempr[LAb]e pi\xF9 [Mib6] [MIb7]
 
 ## Verse
-
-[LAb] [REb7+] [MIb6]
 La senti questa [LAb]voce [REb7+] [MIb6]
 Chi canta \xE8 il [LAb]mio cuore [REb7+] [MIb6]
 [LAb] [REb7+] [MIb6]
-Ho preso la chi[LAb]tarra [REb7+]
+[LAb] [REb7+]
+Ho [MIb6]preso la chi[LAb]tarra [REb7+]
 E [MIb6]suono pe[LAb]r te [REb7+] [MIb6]
 [LAb] [REb7+] [MIb6]
 A[MIb6]more, amore, a[LAb]more [REb7+] [LAb/MIb] [LAb]
+
 `,fe=[[/key: LAb/g,"key: Ab"],[/\[LAb\/MIb\]/g,"[Ab/Eb]"],[/\[LAb7\+\]/g,"[Ab7+]"],[/\[LAb\]/g,"[Ab]"],[/\[REb7\+\]/g,"[Db7+]"],[/\[REb6\]/g,"[Db6]"],[/\[REb\]/g,"[Db]"],[/\[MIb9\]/g,"[Eb9]"],[/\[MIb7\]/g,"[Eb7]"],[/\[MIb6\]/g,"[Eb6]"],[/\[MIb\]/g,"[Eb]"],[/\[DOm\]/g,"[Cm]"]],me=fe.reduce((n,[i,t])=>n.replace(i,t),H);var K=[{key:"title",value:"title: ",labelKey:"trackEditor.metadataTitle"},{key:"author",value:"author: ",labelKey:"trackEditor.author"},{key:"slug",value:"slug: ",labelKey:"trackEditor.metadataSlug"},{key:"key",value:`key: DO
 `,labelKey:"trackEditor.metadataKey"},{key:"draft",value:`draft: false
 `,labelKey:"trackEditor.metadataDraft"},{key:"tags",value:`tags: rock, pop
