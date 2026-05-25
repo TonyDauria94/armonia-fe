@@ -1,5 +1,6 @@
-import{a as le,c as se,d as de,e as ce}from"./chunk-XJUXPL37.js";import{b as X,c as Y,d as Z,e as ee,f as te,g as ie,i as ne,j as re,k as oe,l as ae}from"./chunk-JMZGP35X.js";import{a as J}from"./chunk-VT2Z42PF.js";import{a as $}from"./chunk-DA2QGACW.js";import{a as U}from"./chunk-3R7VRL33.js";import"./chunk-WNQ4N7RJ.js";import"./chunk-CIHM7STN.js";import{$ as g,Ba as j,D as Q,J as I,K as y,L as C,O as A,P as R,Q as w,R as l,S as s,T as V,X as T,Z as p,aa as B,ba as S,ca as P,ea as O,fa as c,ga as f,ha as x,ia as F,j as M,ja as N,k as v,ka as z,l as E,la as D,v as G,wa as W,z as o}from"./chunk-W5T3JWLD.js";import"./chunk-2NFLSA4Y.js";var H=`---
+import{a as le,c as se,d as de,e as ce}from"./chunk-GYAGWDYQ.js";import{b as X,c as Y,d as Z,e as ee,f as te,g as ie,i as ne,j as re,k as oe,l as ae}from"./chunk-JMZGP35X.js";import{a as J}from"./chunk-UPP4WKV2.js";import{a as $}from"./chunk-PZGV3KQI.js";import{a as U}from"./chunk-3R7VRL33.js";import"./chunk-WNQ4N7RJ.js";import"./chunk-CIHM7STN.js";import{$ as g,Ba as j,D as Q,J as I,K as y,L as C,O as A,P as R,Q as w,R as l,S as s,T as V,X as T,Z as p,aa as B,ba as S,ca as P,ea as O,fa as c,ga as f,ha as x,ia as F,j as M,ja as N,k as v,ka as z,l as E,la as D,v as G,wa as W,z as o}from"./chunk-W5T3JWLD.js";import"./chunk-2NFLSA4Y.js";var H=`---
 title: La Prima Cosa Bella
+subtitle: Versione acustica
 author: Malika Ayane
 slug: malika-ayane-la-prima-cosa-bella
 key: LAb
@@ -68,7 +69,7 @@ E [MIb6]suono pe[LAb]r te [REb7+] [MIb6]
 [LAb] [REb7+] [MIb6]
 A[MIb6]more, amore, a[LAb]more [REb7+] [LAb/MIb] [LAb]
 
-`,fe=[[/key: LAb/g,"key: Ab"],[/\[LAb\/MIb\]/g,"[Ab/Eb]"],[/\[LAb7\+\]/g,"[Ab7+]"],[/\[LAb\]/g,"[Ab]"],[/\[REb7\+\]/g,"[Db7+]"],[/\[REb6\]/g,"[Db6]"],[/\[REb\]/g,"[Db]"],[/\[MIb9\]/g,"[Eb9]"],[/\[MIb7\]/g,"[Eb7]"],[/\[MIb6\]/g,"[Eb6]"],[/\[MIb\]/g,"[Eb]"],[/\[DOm\]/g,"[Cm]"]],me=fe.reduce((n,[i,t])=>n.replace(i,t),H);var K=[{key:"title",value:"title: ",labelKey:"trackEditor.metadataTitle"},{key:"author",value:"author: ",labelKey:"trackEditor.author"},{key:"slug",value:"slug: ",labelKey:"trackEditor.metadataSlug"},{key:"key",value:`key: DO
+`,fe=[[/subtitle: Versione acustica/g,"subtitle: Acoustic version"],[/key: LAb/g,"key: Ab"],[/\[LAb\/MIb\]/g,"[Ab/Eb]"],[/\[LAb7\+\]/g,"[Ab7+]"],[/\[LAb\]/g,"[Ab]"],[/\[REb7\+\]/g,"[Db7+]"],[/\[REb6\]/g,"[Db6]"],[/\[REb\]/g,"[Db]"],[/\[MIb9\]/g,"[Eb9]"],[/\[MIb7\]/g,"[Eb7]"],[/\[MIb6\]/g,"[Eb6]"],[/\[MIb\]/g,"[Eb]"],[/\[DOm\]/g,"[Cm]"]],me=fe.reduce((n,[i,t])=>n.replace(i,t),H);var K=[{key:"title",value:"title: ",labelKey:"trackEditor.metadataTitle"},{key:"subtitle",value:"subtitle: ",labelKey:"trackEditor.metadataSubtitle"},{key:"author",value:"author: ",labelKey:"trackEditor.author"},{key:"slug",value:"slug: ",labelKey:"trackEditor.metadataSlug"},{key:"key",value:`key: DO
 `,labelKey:"trackEditor.metadataKey"},{key:"draft",value:`draft: false
 `,labelKey:"trackEditor.metadataDraft"},{key:"tags",value:`tags: rock, pop
 `,labelKey:"trackEditor.metadataTags"},{key:"links",value:`links:
