@@ -17,6 +17,14 @@
     "setlistHint": "Create a sequence for rehearsals and performances.",
     "guideHint": "Learn the format, backups, and tools."
   },
+  "changelog": {
+    "title": "Changelog",
+    "backHome": "Back home",
+    "intro": "The main new features, fixes, and updates in Armonia.",
+    "versionLabel": "Version",
+    "versionCodeLabel": "Code",
+    "current": "Current"
+  },
   "guide": {
     "title": "Guide",
     "backHome": "Back home",

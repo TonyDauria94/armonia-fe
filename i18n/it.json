@@ -17,6 +17,14 @@
     "setlistHint": "Crea una sequenza per prove e performance.",
     "guideHint": "Scopri formato, backup e funzioni."
   },
+  "changelog": {
+    "title": "Changelog",
+    "backHome": "Torna alla home",
+    "intro": "Le novita, le correzioni e gli aggiornamenti principali di Armonia.",
+    "versionLabel": "Versione",
+    "versionCodeLabel": "Code",
+    "current": "Attuale"
+  },
   "guide": {
     "title": "Guida",
     "backHome": "Torna alla home",
