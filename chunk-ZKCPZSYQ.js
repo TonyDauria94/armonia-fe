@@ -1,0 +1,1 @@
+var o=[".cmd.md",".md",".txt"],e=".arb",n=".arl",i=".asb",s=".asl",t=["application/zip","application/octet-stream","*/*"],c=[...o,"text/markdown","text/plain","application/octet-stream"].join(","),p=[e,...t].join(","),r=[n,...t].join(","),a=[i,...t].join(","),l=[s,...t].join(","),x=[e,n,i,s,...o];export{o as a,e as b,n as c,i as d,s as e,c as f,p as g,r as h,a as i,l as j};

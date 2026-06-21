@@ -1,1 +1,0 @@
-var o=[".cmd.md",".md",".txt"],n=".arb",e=".asb",s=".asl",t=["application/json","text/plain","application/octet-stream","*/*"],c=[...o,"text/markdown","text/plain","application/octet-stream"].join(","),i=[n,".json",...t].join(","),p=[e,".json",...t].join(","),a=[s,".json",...t].join(","),r=[n,e,s,...o];export{o as a,n as b,e as c,s as d,c as e,i as f,p as g,a as h};

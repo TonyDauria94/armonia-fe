@@ -1,0 +1,1 @@
+var a={appId:"io.github.tonydauria94.armonia",appTitle:"Armonia",appVersion:"1.0.5",appVersionCode:5,appReleaseDate:"2026-06-16",catalogId:"standard",catalogVersion:1,catalogSchemaVersion:1};export{a};
