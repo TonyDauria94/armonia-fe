@@ -1,5 +1,11 @@
 {
   "catalogId": "standard",
   "catalogVersion": 1,
-  "schemaVersion": 1
+  "schemaVersion": 1,
+  "source": {
+    "path": "catalogs/standard.arl",
+    "format": "arl",
+    "contentSha256": "96b3f34eee1484f1db4115c4c400af7c8c8e231d96bf0e5c35a2daf12aee9edd"
+  },
+  "databaseSha256": "5d4cb156c2b561c0d3a9fdd028b02379cdd8712a56fe809bcd113af97327ec0f"
 }
