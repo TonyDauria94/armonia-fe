@@ -1,31 +1,15 @@
 {
   "catalogId": "gam",
-  "catalogVersion": 8,
+  "catalogVersion": 13,
   "schemaVersion": 2,
   "source": {
     "path": "catalogs/gam.arl",
     "format": "arl",
-    "contentSha256": "6a85072bdebd356b72b3b6fdd83403ff851ee27c47fc3d1893ed0c57b1e852e2",
+    "contentSha256": "76ede8a6c28d8726772537a965813cd8ab0bfedc30ae1f1f8e5c9d490e6667ad",
     "setlists": {
       "path": "catalogs/gam-setlists",
-      "files": [
-        {
-          "id": "scaletta-adorazione",
-          "path": "catalogs/gam-setlists/scaletta-adorazione.asl",
-          "contentSha256": "7ae9a4d33b92d70e153d6c63747588ef1e79b8bf01dca38f688fc06858d0a8b1"
-        },
-        {
-          "id": "scaletta-decina",
-          "path": "catalogs/gam-setlists/scaletta-decina.asl",
-          "contentSha256": "861acd4520bd3dfe987750aa7cbcd7b5615fd9fc218e68fa29efb6357751fe6a"
-        },
-        {
-          "id": "scaletta-messa",
-          "path": "catalogs/gam-setlists/scaletta-messa.asl",
-          "contentSha256": "835891dd58716e333619622c54c812ee4042a6abcc0d962f71cb3aded32af39d"
-        }
-      ]
+      "files": []
     }
   },
-  "databaseSha256": "eee6ae0c68a9adc45aa96e03c6112a8d58284ffb3a1c5cb8a69d4611794e8682"
+  "databaseSha256": "8106f7cc534129b750b9a787a44ddaa0687976c9d7857a5bb6ff29080b7d87cf"
 }
